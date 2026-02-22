@@ -126,6 +126,7 @@
 &emsp;&emsp;不过我给你们带来的，并不是什么大同世界，而是神话世界哦（当然也包括大同）。<br>
 &emsp;&emsp;你们要有思想准备。<br>
 <div align="center">
-  <a href= "chapter11.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter13.md">下一章</a>&emsp;&emsp;&emsp;
+  <a href= "chapter11.md">上一章</a>&emsp;<a href= "../">目录</a>&emsp;<a href= "chapter13.md">下一章</a>&emsp;&emsp;&emsp;
 
 </div>
+
