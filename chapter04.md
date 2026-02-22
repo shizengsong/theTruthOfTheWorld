@@ -150,5 +150,6 @@
 &emsp;&emsp;腐烂魔，应是春秋时期产生的，中国礼崩乐坏，正是此魔的杰作。人们开始变得渴望权力，诸侯不再满足于只做诸侯，开始变得想要做霸主，直至后来还想做天子。这个魔的出现只有两三千年时间，但是现代人类道德已经败坏得无以复加了。因此，此魔极为堕落。<br>
 &emsp;&emsp;怀疑之魔，不太清楚他产生的时期，大家再研究吧。<br>
 <div align="center">
-  <a href= "chapter3.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter5.md">下一章</a>&emsp;&emsp;&emsp;
+  <a href= "chapter03.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter05.md">下一章</a>&emsp;&emsp;&emsp;
 </div>
+
