@@ -6,7 +6,7 @@
 ### 章节列表
 + [第一章&emsp;一开始的发现](chapters/chapter01.md)
 + [第二章&emsp;后来的发现](chapters/chapter02.md)
-+ [第三章&emsp;人变坏的原因（罪恶源头的问题）](chapter03.md)
++ [第三章&emsp;人变坏的原因（罪恶源头的问题）](chapters/chapter03.md)
 + [第四章&emsp;人类真正的历史](chapters/chapter04.md)
 + [第五章&emsp;现象界的真相(现实世界是如何形成的)](chapters/chapter05.md)
 + [第六章&emsp;感性人的四种能力](chapters/chapter06.md)
