@@ -4,7 +4,7 @@
 我们马上就要出发。  <br>
 小心这本书的速度，可能会把你的脑子弄丢哦。<br>
 <br><br>
-[第一章]<chapter1.md><br>
+[第一章](chapter0.md)<br>
 [第二章]<chapter2.md><br>
 [第三章]<chapter3.md><br>
 [第四章]<chapter4.md><br>
