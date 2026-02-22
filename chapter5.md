@@ -82,6 +82,6 @@
 &emsp;&emsp;从这个角度上讲，投胎的确不是一件好事。<br>
 &emsp;&emsp;但是我们世界的管理者们为什么采取这种措施，我觉得应该有他们的原因。<br>
 &emsp;&emsp;也许就是因为冷血魔导致人与人之间的战争和伤害，管理者才使用这种方式，强制维持这个世界某种程度上的和平。<br>
-<div align="center" markdown="1">
+<div align="center">
   <a href= "chapter4.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter6.md">下一章</a>&emsp;&emsp;&emsp;
 </div>
