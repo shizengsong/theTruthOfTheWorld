@@ -98,6 +98,7 @@
 &emsp;&emsp;根据本人观察，阳性人和阴性人的长相会有一一对应的关系，即每个阳性人，都会有跟他长相极其相似的阴性人。那么可根据这个，找出阳性人的类型。<br>
 &emsp;&emsp;但是阳性人性格基本趋于一致，类型很不明显。<br>
 <div align="center">
-  <a href= "chapter17.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;&emsp;&emsp;
+  <a href= "chapter17.md">上一章</a>&emsp;<a href= "../">目录</a>&emsp;&emsp;&emsp;
 
 </div>
+
