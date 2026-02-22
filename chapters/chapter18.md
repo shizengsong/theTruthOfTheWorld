@@ -99,4 +99,5 @@
 &emsp;&emsp;但是阳性人性格基本趋于一致，类型很不明显。<br>
 <div align="center">
   <a href= "chapter17.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;&emsp;&emsp;
+
 </div>
