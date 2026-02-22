@@ -30,4 +30,5 @@
 &emsp;&emsp;我觉得我们需要一个新的，为了爱情的宗教。<br>
 <div align="center">
   <a href= "chapter9.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter11.md">下一章</a>&emsp;&emsp;&emsp;
+
 </div>
