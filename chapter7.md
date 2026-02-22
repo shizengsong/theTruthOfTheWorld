@@ -32,6 +32,7 @@
 &emsp;&emsp;他们应该去找那个中心的阳性人，才会有完整的爱情。<br>
 &emsp;&emsp;当然这只是我个人的看法，我不能保证自己所说的包含了所有的情况。<br>
 &emsp;&emsp;但是在我的观察里面，相当一部分应是这种情况。<br>
-<div align="center" markdown="1">
+<div align="center">
   <a href= "chapter6.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter8.md">下一章</a>&emsp;&emsp;&emsp;
+
 </div>
