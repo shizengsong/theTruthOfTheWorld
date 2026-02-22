@@ -44,6 +44,7 @@
 &emsp;&emsp;中国人的道德说教最多，而羞耻心最少。<br>
 &emsp;&emsp;就是道德无用的证明。<br>
 <div align="center">
-  <a href= "chapter13.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter15.md">下一章</a>&emsp;&emsp;&emsp;
+  <a href= "chapter13.md">上一章</a>&emsp;<a href= "../">目录</a>&emsp;<a href= "chapter15.md">下一章</a>&emsp;&emsp;&emsp;
 
 </div>
+
