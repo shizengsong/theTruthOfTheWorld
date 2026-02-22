@@ -29,6 +29,7 @@
 &emsp;&emsp;谈恋爱的难度并不亚于修行的难度，很多人认为自己喜欢谁就是恋爱了，其实真正的爱情跟这一点关系都没有。<br>
 &emsp;&emsp;我觉得我们需要一个新的，为了爱情的宗教。<br>
 <div align="center">
-  <a href= "chapter9.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter11.md">下一章</a>&emsp;&emsp;&emsp;
+  <a href= "chapter9.md">上一章</a>&emsp;<a href= "../">目录</a>&emsp;<a href= "chapter11.md">下一章</a>&emsp;&emsp;&emsp;
 
 </div>
+
