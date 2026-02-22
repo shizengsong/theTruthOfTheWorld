@@ -53,7 +53,8 @@
 &emsp;&emsp;这种关系是生生世世的关系，不是只有一两世或几世的关系。<br>
 &emsp;&emsp;（怎么确定谁是兄，谁是弟？谁是姐，谁是妹？即如何确定大小？根据我们后来的了解，灵魂成熟程度越高的，就是兄或者姐，越低的就是弟或者妹。跟现实世界年龄无关）<br>
 <div align="center">
-  <a href= "chapter05.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter07.md">下一章</a>&emsp;&emsp;&emsp;
+  <a href= "chapter05.md">上一章</a>&emsp;<a href= "../">目录</a>&emsp;<a href= "chapter07.md">下一章</a>&emsp;&emsp;&emsp;
 
 </div>
+
 
