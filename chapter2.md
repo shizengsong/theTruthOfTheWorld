@@ -158,4 +158,6 @@
 &emsp;&emsp;也许他们从来都没有尝试过，但是没关系，我觉得可以试一试。<br>
 &emsp;&emsp;根据我的了解，感性人的感觉应该都是一致的。<br>
 &emsp;&emsp;如果你们不相信，那么把感性人集合起来，测试一下，看是不是我讲的这样，一切就都知道了。<br>
-&emsp;&emsp;
+<div align="center" markdown="1">
+  <a href= "chapter1.md">上一章</a>&emsp;<a href= "readme.md">目录</a>&emsp;<a href= "chapter3.md">下一章</a>&emsp;&emsp;&emsp;
+</div>
