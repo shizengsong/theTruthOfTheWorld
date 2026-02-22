@@ -86,5 +86,5 @@
 &emsp;&emsp;副中心的意思是什么呢？<br>
 &emsp;&emsp;副中心对阴性人来说，是第二重要的中心，除了自己的中心，就副中心最为活跃。<br>
 <div align="center">
-  <a href= "README.md">目录</a>&emsp;<a href= "chapter02.md">下一章</a>&emsp;&emsp;&emsp;
+  <a href= "../">目录</a>&emsp;<a href= "chapter02.md">下一章</a>&emsp;&emsp;&emsp;
 </div>
