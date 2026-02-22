@@ -85,4 +85,6 @@
 &emsp;&emsp;而柔情中心的人，副中心就是评价。<br>
 &emsp;&emsp;副中心的意思是什么呢？<br>
 &emsp;&emsp;副中心对阴性人来说，是第二重要的中心，除了自己的中心，就副中心最为活跃。<br>
-&emsp;&emsp;
+<div align="center" markdown="1">
+  <a href= "README.md">目录</a>&emsp;<a href= "chapter2.md">下一章</a>&emsp;&emsp;&emsp;
+</div>
