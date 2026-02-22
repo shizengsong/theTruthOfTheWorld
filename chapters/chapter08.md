@@ -42,7 +42,8 @@
 &emsp;&emsp;也就是说，宇宙的形成，是爱情的结果。<br>
 &emsp;&emsp;（关于这点还有个证据，就是阴性人巨大的内心世界，是用来做什么的呢？按我的解释，那个空间，是爱情实现后，生成宇宙的空间。不然那么大的空间，要用来做什么呢？）<br>
 <div align="center">
-  <a href= "chapter07.md">上一章</a>&emsp;<a href= "README.md">目录</a>&emsp;<a href= "chapter09.md">下一章</a>&emsp;&emsp;&emsp;
+  <a href= "chapter07.md">上一章</a>&emsp;<a href= "../">目录</a>&emsp;<a href= "chapter09.md">下一章</a>&emsp;&emsp;&emsp;
 </div>
+
 
 
